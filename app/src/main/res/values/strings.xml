@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Drupadi</string>
+    <string name="masuk">MASUK</string>
+    <string name="daftar">DAFTAR</string>
+
+    <!-- string registrasi-->
+    <string name="nik">Nomor Induk Kependudukan</string>
+    <string name="jenis_ptgs">Jenis Petugas</string>
+    <string name="nip">Nomor Induk Pegawai</string>
+    <string name="pass">Password</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="no_telp">Nomor Telepon</string>
+    <string name="kecamatan">Kecamatan</string>
+    <string name="desa">Desa</string>
+    <string name="submit">SUBMIT</string>
+</resources>
